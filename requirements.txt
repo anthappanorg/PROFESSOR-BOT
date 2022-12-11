@@ -12,3 +12,4 @@ aiohttp
 pytz
 aiofiles
 speedtest
+pillow
