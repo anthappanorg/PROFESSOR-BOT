@@ -13,3 +13,4 @@ pytz
 aiofiles
 speedtest
 pillow
+telegraph
